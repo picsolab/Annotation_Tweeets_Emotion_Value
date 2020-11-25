@@ -12,7 +12,7 @@ This document details the inclusion criteria, training instruction for coders, a
 This document details the inclusion criteria, training instruction for coders, and training modules implimented on Mturk.
 
 (3)Codebook_for_MoralValue
-This document details the operationalized definitions we use to annotate the 10 dimensions of moral values we developed from Moral Foundation Theory (https://moralfoundations.org/)
+This document details the operationalized definitions we develop and use to annotate the 10 dimensions of moral values based on Moral Foundation Theory (https://moralfoundations.org/)
 
 (4)Annotation results: Gun_tweets_emotion_value.csv
 This file has 14 columns: TweetID, Ideology camp, 2 emotion annoatations, and 10 moral value annotations.
