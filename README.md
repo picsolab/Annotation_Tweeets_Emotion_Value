@@ -19,8 +19,8 @@ This file has 14 columns: TweetID, Ideology camp, 2 emotion annoatations, and 10
 
 #1 "TweetID"
 #2 "Group" (Con or Lib): ideology camp that the Twitter author of the tweet was labled - Con (conservative) or Lib (Liberal)
-#3 "Valence" (-1 to 1): How positive/negative the emotion is felt from the tweet - the values range from -1 to 1; negative value indicates negative emotion, positive value indicates positive emotion; the greater the absolute value, the higher degree of positiveness/negativeness, 0 indicates neutral.
-#4 "Dominance" (-1 to 1): How much the tweet indicates a sense of Feeling-in-control - the values range from -1 to 1; negative value indicates a lower feeling of in control (or, not in control) , and positive indicates feeling-in-cotrol; 0 indicates neutral.
+#3 "Valence" (-1 to 1): How positive/negative the emotion is felt from the tweet - the values range from -1 to 1; the higher the value, the more positive the tweet is felt.
+#4 "Dominance" (-1 to 1): How much the tweet indicates a sense of Feeling-in-control - the values range from -1 to 1; the higher the value, the more feeling in control
 #5 "Care_virtue"(0 or 1): 0 or 1 indicates whether the tweets incoporate moral judgement along this moral dimension
 #6 "Care_vice"(0 or 1): 0 or 1 indicates whether the tweets incoporate moral judgement along this moral dimension
 #7 "Fairness_virtue" (0 or 1): 0 or 1 indicates whether the tweets incoporate moral judgement along this moral dimension
