@@ -17,8 +17,8 @@ This document details the operationalized definitions we develop and use to anno
 (4)Annotation results: Gun_tweets_emotion_value.csv
 This file has 14 columns: TweetID, Ideology camp, 2 emotion annoatations, and 10 moral value annotations.
 
-#1 "TweetID"
-#2 "Group" (Con or Lib): ideology camp that the Twitter author of the tweet was labled - Con (conservative) or Lib (Liberal)
+* "TweetID"
+* "Group" (Con or Lib): ideology camp that the Twitter author of the tweet was labled - Con (conservative) or Lib (Liberal)
 #3 "Valence" (-1 to 1): How positive/negative the emotion is felt from the tweet - the values range from -1 to 1; the higher the value, the more positive the tweet is felt.
 #4 "Dominance" (-1 to 1): How much the tweet indicates a sense of Feeling-in-control - the values range from -1 to 1; the higher the value, the more feeling in control
 #5 "Care_virtue"(0 or 1): 0 or 1 indicates whether the tweets incoporate moral judgement along this moral dimension
