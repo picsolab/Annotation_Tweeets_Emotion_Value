@@ -5,16 +5,16 @@ The dataset released here is the results of a human annotation effort to identif
 
 In this released dataset, there are four files.
 
-(1)Codebook_for_emotion_Valence
+1. [Codebook_for_emotion_Valence](Codebook_Emotion_Dominance.pdf)
 This document details the inclusion criteria, training instruction for coders, and training modules implimented on Mturk.
 
-(2)Codebook_for_emotion_Dominance
+2. Codebook_for_emotion_Dominance
 This document details the inclusion criteria, training instruction for coders, and training modules implimented on Mturk.
 
-(3)Codebook_for_MoralValue
+3. Codebook_for_MoralValue
 This document details the operationalized definitions we develop and use to annotate the 10 dimensions of moral values based on Moral Foundation Theory (https://moralfoundations.org/)
 
-(4)Annotation results: Gun_tweets_emotion_value.csv
+4. Annotation results: Gun_tweets_emotion_value.csv
 This file has 14 columns: TweetID, Ideology camp, 2 emotion annoatations, and 10 moral value annotations.
 
 * "TweetID"
