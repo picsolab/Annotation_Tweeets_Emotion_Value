@@ -8,7 +8,7 @@ In this released dataset, there are four files.
 1. [Codebook_for_emotion_Valence](Codebook_Emotion_Dominance.pdf)
 This document details the inclusion criteria, training instruction for coders, and training modules implimented on Mturk.
 
-2. Codebook_for_emotion_Dominance
+2. [Codebook_for_emotion_Dominance](Codebook_Emotion_Dominance.pdf)
 This document details the inclusion criteria, training instruction for coders, and training modules implimented on Mturk.
 
 3. Codebook_for_MoralValue
